@@ -38,7 +38,6 @@ Welcome to my GitHub repository, where you can find some of my projects. I'm Car
 [![Matlab](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com)
-
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/carmenabans)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com)
