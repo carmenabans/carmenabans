@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub repository, where you can find some of my projects. I'm Carmen, a passionate dual student pursuing a degree in Computer Science and Business Administration. In here, you'll find information about some of my projects. Feel free to explore and get in touch if you have any questions or opportunities to collaborate!
+Welcome to my GitHub repository, where you can find some of my projects. I'm Carmen, a student pursuing a dual bachelor in Computer Science and Engineering and Business Administration. In here, you'll find information about some of my projects. Feel free to explore and get in touch if you have any questions or opportunities to collaborate!
 
 
 ### Tech Stack
